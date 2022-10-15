@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\bin\Debug\finalprojectpaint.exe.config
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\bin\Debug\finalprojectpaint.exe
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\bin\Debug\finalprojectpaint.pdb
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.Form1.resources
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.Properties.Resources.resources
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.csproj.GenerateResource.cache
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.exe
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.pdb
