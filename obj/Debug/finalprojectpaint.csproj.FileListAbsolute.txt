@@ -9,3 +9,4 @@ C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalpr
 C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.exe
 C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.pdb
+C:\Users\User\source\repos\finalprojectpaint\finalprojectpaint\obj\Debug\finalprojectpaint.Form2.resources
